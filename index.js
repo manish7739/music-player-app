@@ -23,37 +23,38 @@
           {
             name:"music3",
             title:"jagrity shani",
-            artist:"chugli karenavali",
-            img:"jagrity"
+            artist:"Aurora",
+            img:"img6"
           },
           {
             name:"music4",
             title:"jagrity shani",
-            artist:"chugli karenavali",
+            artist:"Aurora",
             img:"img3"
           },
           {
             name:"music5",
             title:"jagrity shani",
-            artist:"chugli karenavali",
+            artist:" Aurora",
             img:"img4"
           },
           {
             name:"music6",
             title:"jagrity shani",
-            artist:"chugli karenavali",
+            artist:"Aurorai",
             img:"img5"
           },
           {
             name:"music7",
             title:"jagrity shani",
-            artist:"chugli karenavali",
+            artist:"Auroraii",
+            
             img:"img6"
           },
           {
             name:"music8",
             title:"jagrity shani",
-            artist:"chugli karenavali",
+            artist:"Auroraii",
             img:"img7"
           },
     ]
